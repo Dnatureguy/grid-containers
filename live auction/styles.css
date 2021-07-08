@@ -1,0 +1,124 @@
+body{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background: black
+  }
+  
+  
+.live {
+    padding-top: 20px;
+    display: block;
+    width: 1600px;
+    height: 350px;;
+    position: relative;
+}
+.live1 {
+    background-image: url(./img/oymaj6A.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+
+}
+.live1 .livetext{
+   padding: 15px;
+   position: relative;
+   top: 350px;
+   background-color: white;
+   height: 100px;
+   border-radius: 0px 0px 15px 15px;
+}
+.live1 .livetext #price {
+    float: right;
+    margin-top: -39px;
+}
+.live1 .livetext #nft-price{
+    float: right;
+    margin-top: -39px;
+}
+
+.live2 {
+        background-image: url(./img/EDbXl5T.jpeg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 350px;
+        width: 350px;
+        position: relative;
+        left: 400px;
+        bottom: 366px;
+}
+.live2 .livetext{
+    padding: 15px;
+    position: relative;
+    top: 350px;
+    background-color: white;
+    height: 100px;
+    border-radius: 0px 0px 15px 15px;
+}
+.live2 .livetext #price {
+    float: right;
+    margin-top: -39px;
+}
+.live2 .livetext #nft-price{
+    float: right;
+    margin-top: -39px;
+}
+
+.live3 {
+        background-image: url(./img/6YG5Zqd.jpeg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 350px;
+        width: 350px;
+        position: relative;
+        left: 800px;
+        bottom: 732px;
+}
+.live3 .livetext{
+    padding: 15px;
+    position: relative;
+    top: 350px;
+    background-color: white;
+    height: 100px;
+    border-radius: 0px 0px 15px 15px;
+}
+.live3 .livetext #price {
+    float: right;
+    margin-top: -39px;
+}
+.live3 .livetext #nft-price{
+    float: right;
+    margin-top: -39px;
+}
+
+.live4 {
+    background-image: url(./img/PaCqJxc.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 1200px;
+    bottom: 1098px;
+}
+.live4 .livetext{
+    padding: 15px;
+    position: relative;
+    top: 350px;
+    background-color: white;
+    height: 100px;
+    border-radius: 0px 0px 15px 15px;
+}
+.live4 .livetext #price {
+    float: right;
+    margin-top: -39px;
+}
+.live4 .livetext #nft-price{
+    float: right;
+    margin-top: -39px;
+}
